@@ -1,1 +1,1 @@
-alias gcma=“git checkout main”
+alias gcma="git checkout main"

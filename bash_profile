@@ -1,4 +1,5 @@
 alias gcma="git checkout main"
+alias rails=bin/rails
 
 [[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
 

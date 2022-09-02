@@ -1,0 +1,69 @@
+{
+  "editor.renderWhitespace": "all",
+    "editor.folding": false,
+    "editor.renderControlCharacters": true,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.statusBar.visible": true,
+    "workbench.editor.enablePreview": false,
+    "extensions.ignoreRecommendations": true,
+    "editor.tabSize": 2,
+    "gitblame.statusBarPositionPriority": 1,
+    "gitblame.statusBarMessageFormat": "@${author.name} (${time.ago})",
+    "keyboard.touchbar.enabled": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.startupEditor": "none",
+    "workbench.colorCustomizations": {
+      "editorSuggestWidget.selectedBackground": "#FC43847A"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "C_Cpp.updateChannel": "Insiders",
+    "[javascript]": {
+      "editor.formatOnSave": false
+    },
+    "[javascriptreact]": {
+      "editor.formatOnSave": false
+    },
+    "[typescript]": {
+      "editor.formatOnSave": false,
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+      "editor.formatOnSave": false
+    },
+    "eslint.alwaysShowStatus": true,
+    "cSpell.userWords": [
+    ],
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "terraform.indexing": {
+      "enabled": false,
+      "liveIndexing": false,
+      "delay": 500,
+      "exclude": [
+        ".terraform/**/*",
+        "**/.terraform/**/*"
+      ]
+    },
+    "terraform.languageServer": {
+      "enabled": true,
+      "args": []
+    },
+    "files.insertFinalNewline": true,
+    "problems.decorations.enabled": false,
+    "terminal.integrated.tabs.enabled": true,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+      "*": true,
+      "yaml": false,
+      "plaintext": false,
+      "markdown": true
+    },
+    "workbench.colorTheme": "Atom One Dark",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "window.zoomLevel": 2,
+    "terminal.integrated.automationProfile.linux": {
+    }
+  }

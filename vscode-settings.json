@@ -1,5 +1,6 @@
 {
   "editor.renderWhitespace": "all",
+    "editor.fontFamily": "'Monaspace Argon', monospace",
     "editor.folding": false,
     "editor.renderControlCharacters": true,
     "editor.minimap.enabled": false,

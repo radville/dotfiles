@@ -12,6 +12,7 @@
   "gitblame.statusBarPositionPriority": 1,
   "gitblame.statusBarMessageFormat": "@${author.name} (${time.ago})",
   "keyboard.touchbar.enabled": false,
+  "line-length-checker.lineLength": 118,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "workbench.startupEditor": "none",
   "workbench.colorCustomizations": {

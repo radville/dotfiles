@@ -21,7 +21,12 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[javascript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+  {
+    "key": "ctrl+alt+a",
+    "command": "alternate.alternateFile",
+    "when": "editorTextFocus"
+  },
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "C_Cpp.updateChannel": "Insiders",

@@ -82,4 +82,9 @@
   "window.zoomLevel": 2,
   "terminal.integrated.automationProfile.linux": {
   }
+  {
+    "key": "ctrl+alt+a",
+    "command": "alternate.alternateFile",
+    "when": "editorTextFocus"
+}
 }

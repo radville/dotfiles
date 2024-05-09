@@ -18,7 +18,7 @@
   "workbench.colorCustomizations": {
     "editorSuggestWidget.selectedBackground": "#FC43847A"
   },
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "rubocop",
     "[javascript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
     },

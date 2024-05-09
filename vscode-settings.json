@@ -23,8 +23,11 @@
       "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[ruby]": {
-      "editor.defaultFormatter": "testdouble.vscode-standard-ruby"
+      "editor.defaultFormatter": "rubocop.vscode-rubocop"
     },
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveTimeout": 5000,
+  "ruby.format": "rubocop",
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "C_Cpp.updateChannel": "Insiders",

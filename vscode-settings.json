@@ -18,13 +18,15 @@
   "workbench.colorCustomizations": {
     "editorSuggestWidget.selectedBackground": "#FC43847A"
   },
-  "editor.defaultFormatter": "rubocop.vscode-rubocop",
-    "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[ruby]": {
-      "editor.defaultFormatter": "rubocop.vscode-rubocop"
-    },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[ruby]": {
+    "editor.defaultFormatter": "rubocop.vscode-rubocop"
+  },
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
   "editor.formatOnSave": true,
   "editor.formatOnSaveTimeout": 5000,
   "ruby.format": "rubocop",

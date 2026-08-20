@@ -22,7 +22,7 @@ These preferences apply across repositories and environments. Repository-specifi
 - Prefer pull requests with 100 or fewer changed lines.
 - Split larger work into small, targeted, stacked pull requests. Optimize for focused changes that are easy to review.
 - Follow the repository's pull request template.
-- Put the full URL of the relevant issue at the top of the pull request body.
+- Start the pull request body with `For ` followed by the full URL of the relevant issue, for example: `For https://github.com/github/notifications/issues/7603`.
 - Keep pull request summaries short, high-level, simple, and easy to understand.
 
 ## Writing and references

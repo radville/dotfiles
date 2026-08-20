@@ -16,6 +16,7 @@ These preferences apply across repositories and environments. Repository-specifi
 - Name branches with the `radville/` prefix followed by a kebab-case verb-noun name, such as `radville/fix-notification-reason`.
 - Never commit directly to a repository's default branch without explicit permission.
 - Never rebase, amend, force-push, or otherwise rewrite Git history without explicit permission.
+- Start commit messages with a lowercase third-person singular present-tense verb, such as `fixes notification polling`.
 - Open pull requests as drafts and wait for explicit permission before marking them ready for review.
 - Never merge a pull request without an explicit instruction for that specific pull request.
 - Assign `@radville` to pull requests you open.

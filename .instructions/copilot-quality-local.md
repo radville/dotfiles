@@ -39,6 +39,7 @@ These preferences apply across repositories and environments. Repository-specifi
 
 - Make the smallest complete change that solves the problem, and avoid unrelated edits.
 - Keep global rules language-neutral. Follow the repository's documented language and style conventions.
+- Prefer small methods, typically fewer than six lines. Whenever possible, split larger logic into separate, clearly named methods that describe their purpose.
 - Prefer clear naming and structure over code comments. Avoid comments unless the code cannot be made clear without one or the repository requires them.
 - Search the codebase to verify unfamiliar APIs, helpers, constants, classes, and methods before using them. Ask only if the answer remains unclear.
 - Preserve existing behavior unless the requested change intentionally alters it.

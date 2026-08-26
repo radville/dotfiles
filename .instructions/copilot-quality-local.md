@@ -31,6 +31,7 @@ These preferences apply across repositories and environments. Repository-specifi
 - Use simple, clear, and friendly language.
 - Always format responses using GitHub-flavored Markdown.
 - Render URLs as descriptive Markdown links unless raw URLs are explicitly requested.
+- When drafting content intended to paste into GitHub, return the complete raw GitHub-flavored Markdown inside a fenced `markdown` code block.
 - Do not use em dashes.
 - Always use complete `https://github.com/...` links for GitHub issues, pull requests, discussions, commits, and code.
 - Never use shorthand references such as `github#446076`.
